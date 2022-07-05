@@ -1,7 +1,7 @@
 # douyinVedio
 >  hevc avc
 
-![](images/截屏2022-07-05 09.46.47.png)
+![](images/20220705094647.png)
 
 ## ⏬下载路径
 
